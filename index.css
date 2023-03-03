@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color:rgb(172, 159, 159);
+}
+
+
+.login {
+    text-align: center;
+}
+
+#heading {
+    font-weight: 200;
+}
+
+.form {
+    text-align: center;
+}
+
+.user p {
+    display: inline;
+}
+#submit{
+    padding: 5px;
+    display: inline;
+}
+#reset{
+    padding: 5px;
+}
+.textin{
+    border-radius: 7px;
+    padding: 2px;
+}
+.user{
+    width: 290px;
+    border: solid grey;
+    margin: auto;
+    padding: 20px 4px 20px 4px;
+    border-radius: 25px;
+}
+.button{
+    border-radius: 8px;
+}
